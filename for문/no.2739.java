@@ -13,6 +13,6 @@ public class Main {
             int result = num*i; //변수 result에 num*i의 결과값을 할당
             int logic = result; //정수형 변수 logic에 result 할당(구구단의 계산 결과를 출력시킬 변수로 사용)
             System.out.println( num + " * " + i + " = " + logic); //num + i = logic 출력문
-        }
-    }
-}
+        }//end for 
+    }//end main
+}//and class
