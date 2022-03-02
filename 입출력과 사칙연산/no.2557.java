@@ -1,7 +1,6 @@
-package org.zerock;
 /*  Backjoon 2557번 문제
  *   문제 : Hello World!를 출력하시오.
- *   입력 :
+ *   입력 : 
  *   출력 :
  */
 public class Main{
