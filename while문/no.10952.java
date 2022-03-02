@@ -1,4 +1,3 @@
-package org.zerock;
 /*  Backjoon 10952번 문제
  *   문제 : 두 정수 A와 B를 입력받은 다음, A+B를 출력하는 프로그램을 작성하시오.
  *   입력 : 입력은 여러 개의 테스트 케이스로 이루어져 있다.
@@ -18,8 +17,8 @@ public class Main{
 
             if(result==0){
                 break;
-            }
+            }//end if
             System.out.println(result);
-        }
-    }
-}
+        }//end while
+    }//end main
+}//end class
